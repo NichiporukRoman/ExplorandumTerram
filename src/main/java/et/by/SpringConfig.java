@@ -1,6 +1,6 @@
 package et.by;
 
-import et.by.models.User;
+import et.by.models.user.User;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
